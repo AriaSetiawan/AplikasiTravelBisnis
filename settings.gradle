@@ -1,0 +1,2 @@
+rootProject.name='Gis Android'
+include ':app'
